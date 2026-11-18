@@ -7,22 +7,39 @@ If you REALLY want to, you can download each project as a ZIP file and import it
 Here's a project list:
 
 Bronze Belt
+
   • Dropping Bombs (not included, it has multiple parts)
+  
   • Scavenger Hunt
+  
   • Meany Bird
+  
   • Sketch Head
+  
   • Don't Touch the Cubes
+  
   • Super Shapes
+  
   • Poly Run
+  
   • Dropping Bombs 2 (not included, it has multiple parts)
+  
   • Dropping Bombs 3 (not included, it has multiple parts)
+  
   • Dropping Bombs 4 (not included, it has multiple parts)
+  
   • Dropping Bombs 5 (not included, it has multiple parts)
+  
   • Dropping Bombs 6 (included, final version)
   
 Silver Belt
+ 
   • Robomania
+  
   • Find the Exit
+  
   • Shape Jam
+  
   • Jungle Escape
+  
   "More soon", I guess
